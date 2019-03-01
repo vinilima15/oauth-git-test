@@ -1,0 +1,7 @@
+{
+    "/login/*": {
+      "target": "https://github.com",
+      "secure": false,
+      "changeOrigin": true
+    }
+  }
